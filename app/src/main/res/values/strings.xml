@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Survey_IS</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_logout">Logout</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_surveys_list">SurveysList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_questionario">questionario</string>
+    <string name="title_activity_okta_login">Login</string>
+    <string name="url_test">http://35.205.111.61/SurveyJSF/api/messages</string>
+    <string name="url_sondaggi">http://35.205.111.61/SurveyJSF/rest/sondaggi/</string>
+    <string name="url_salvataggio">http://35.205.111.61/SurveyJSF/rest/upload/</string>
+    <string name="url_registration">https://dev-315516.oktapreview.com/api/v1/users?activate=true</string>
+    <string name="url_logout">https://dev-315516.oktapreview.com/login/signout</string>
+    <string name="api_key">00avEwjPBTP193RubI06SgfGiD-YP38UHzo3v0qf7s</string>
+    <string name="title_activity_registration">Registrazione</string>
+</resources>
